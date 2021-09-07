@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pkg170_java_projects","l":"Aprils_giveaway"},{"p":"pkg170_java_projects","l":"Aprilsgivaway2"},{"p":"pkg170_java_projects","l":"Future_value"},{"p":"pkg170_java_projects","l":"Main"}]
